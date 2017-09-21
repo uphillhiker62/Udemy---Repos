@@ -1,0 +1,45 @@
+h1	{
+	text-align: center; 
+	font-family: 'Allura', cursive;
+	font-size: 60px;
+	color: rgba(99, 95, 95, 1);
+	background-color: rgba(68, 213, 210, 0.88);
+}
+
+#title {
+	font-family: 'Amatic SC', cursive;
+	text-align: center;
+	font-size: 25px;
+	color: rgba(99, 95, 95, 1);
+}
+
+.shadowpic {
+	font-family: 'Shadows Into Light Two', cursive;
+	text-align: left;
+}
+
+body {
+	background-color: #cfd1d1;
+	padding: 20px;
+    max-width: 1000px;
+    width: 80%;
+    margin: 20px auto;
+   	border: 5px solid rgba(99, 95, 95, 1);
+}
+
+.kids {
+	width: 20%;
+	float: left;
+	margin: 2.5%;
+	box-shadow: 1px 1px gray, -1em 5px 5px grey;
+}
+
+.topline {
+	margin: 5px;
+	box-shadow: 1px 1px gray, -1em 5px 5px grey;
+	resize: auto;
+}
+
+#jazz {
+	content: center;
+}

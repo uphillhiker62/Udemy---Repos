@@ -1,0 +1,11 @@
+body {
+	background: green;
+}
+
+#redcss {
+	color: red;
+}
+
+.completed {
+	text-decoration: line-through;
+}
